@@ -2,7 +2,7 @@
 
 Application web mobile-first pour compter les points au jeu de cartes **Dutch** (alias *Cabo*). Suivi manche par manche, application automatique du bonus/malus de Dutch (`−10` / `0` / `+5`), détection de fin de partie à 100 points.
 
-> 🚧 Lien de démo en ligne : *à compléter une fois le déploiement Vercel terminé.*
+**Démo en ligne** → [dutch-scoretracker.vercel.app](https://dutch-scoretracker.vercel.app/)
 
 ## Fonctionnalités
 
